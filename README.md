@@ -3,7 +3,6 @@
   <!-- Reemplaza la URL de la imagen por la URL directa de tu logo en GitHub -->
   <img src="https://github.com/elsonlabs-apps.png" alt="Elson Labs Logo" width="120" style="border-radius: 20%; margin-bottom: 10px;" />
 
-  # 🚀 Elson Labs
   **Building high-performance apps, web experiences, and digital tools.**
 
   <p align="center">
